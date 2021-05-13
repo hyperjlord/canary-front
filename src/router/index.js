@@ -13,7 +13,7 @@ const router = createRouter({
         children:[
           {
             path:'',
-            name:'首页',
+            name:'',
             component:() => import('@/views/home.vue')
           },
           {
