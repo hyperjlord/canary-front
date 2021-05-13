@@ -12,7 +12,7 @@ const router = createRouter({
         component: () => import(/* webpackChunkName: "home" */ '@/components/layout.vue'),
         children:[
           {
-            path:'',
+            path:'/home',
             name:'首页',
             component:() => import('@/views/home.vue')
           },
@@ -22,9 +22,20 @@ const router = createRouter({
             component:() => import('@/views/triangle.vue')
           },
           {
+            path:'/telecom',
+            name:'电信收费问题',
+            component:() => import('@/views/telecom.vue')
+          },
+          
+          {
             path:'/computer',
             name:'电脑销售问题',
-            component:() => import('@/views/ComputerSell.vue')
+            component:() => import('@/views/computerSell.vue')
+          },
+          {
+            path:'/calendar',
+            name:'万年历问题',
+            component:() => import('@/views/calendar.vue')
           },
           {
           path:'/hello',

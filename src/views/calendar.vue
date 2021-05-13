@@ -1,10 +1,10 @@
 <template>
   <div style="margin-left: 50px;margin-right:50px;text-align: left;width: 100%;">
     <div style="width: 250px;">
-      <h1>Question3: 电脑销售系统</h1>
+      <h1>Question4: 万年历问题</h1>
       <el-upload
           class="upload-demo"
-          action="http://imsty.cn:5000/question3"
+          action="http://imsty.cn:5000/question4"
           :on-preview="handlePreview"
           :on-remove="handleRemove"
           :before-remove="beforeRemove"
@@ -24,21 +24,19 @@
           style="width: 100%">
         <el-table-column
             prop=0
-            label="序号"
-            width="180">
+            label="序号">
         </el-table-column>
         <el-table-column
             prop=1
-            label="主机"
-            width="180">
+            label="年">
         </el-table-column>
         <el-table-column
             prop=2
-            label="外设">
+            label="月">
         </el-table-column>
         <el-table-column
             prop=3
-            label="显示器">
+            label="日">
         </el-table-column>
         <el-table-column
             prop=4

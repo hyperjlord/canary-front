@@ -1,17 +1,7 @@
 <template>
     <el-container style="border: 1px solid #eee;height:100vh">
         <el-header style="height:12%">
-            <span><img src="../assets/canary_logo.svg" alt="" style="width:200px;position:absolute;left:0%"></span>
-            <el-dropdown style="display:inline">
-                <i class="el-icon-setting" style="margin-right: 15px"></i>
-                <template #dropdown>
-                    <el-dropdown-menu>
-                        <el-dropdown-item>查看</el-dropdown-item>
-                        <el-dropdown-item>新增</el-dropdown-item>
-                        <el-dropdown-item>删除</el-dropdown-item>
-                    </el-dropdown-menu>
-                </template>
-            </el-dropdown>
+            <span><img src="../assets/canary_logo.svg" alt="" style="width:200px;position:absolute;left:2%"></span>
             <span style="font-size:large;color:gold">canary软件测试平台</span>
         </el-header>
         <el-container style="height:88%">
@@ -24,9 +14,9 @@
                         <template #title><i class="el-icon-message"></i><span style="color:gold">平时题目</span></template>
 
                         <el-menu-item index="/triangle">三角形问题</el-menu-item>
-                        <el-menu-item index="/computer">电脑销售系统</el-menu-item>
                         <el-menu-item index="/telecom">电信收费问题</el-menu-item>
-                        <el-menu-item index="/hello">万年历问题</el-menu-item>
+                        <el-menu-item index="/computer">电脑销售系统</el-menu-item>
+                        <el-menu-item index="/calendar">万年历问题</el-menu-item>
 
                     </el-submenu>
                     <el-submenu index="2">
@@ -42,6 +32,7 @@
                 <div class="header-breadcrumb">
                     <el-breadcrumb separator=">">
                         <el-breadcrumb-item v-for="(matched,m) in this.$route.matched" :key="m" :to="matched">
+                            <!--假如我们目前的路由是/a/aa-01，那么此时 this.$route.matched匹配到的会是一个数组，包含 '/'，'/a'，'/a/aa-01'，这三个path的路由信息 -->
                             {{matched.name}}
                         </el-breadcrumb-item>
                     </el-breadcrumb>

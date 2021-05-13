@@ -1,10 +1,10 @@
 <template>
   <div style="margin-left: 50px;margin-right:50px;text-align: left;width: 100%;">
     <div style="width: 250px;">
-      <h1>Question3: 电脑销售系统</h1>
+      <h1>Question2: 电信收费问题</h1>
       <el-upload
           class="upload-demo"
-          action="http://imsty.cn:5000/question3"
+          action="http://imsty.cn:5000/question2"
           :on-preview="handlePreview"
           :on-remove="handleRemove"
           :before-remove="beforeRemove"
@@ -29,27 +29,23 @@
         </el-table-column>
         <el-table-column
             prop=1
-            label="主机"
+            label="本月通话的分钟数"
             width="180">
         </el-table-column>
         <el-table-column
             prop=2
-            label="外设">
+            label="通话时间段的最大容许不按时缴费次数">
         </el-table-column>
         <el-table-column
             prop=3
-            label="显示器">
-        </el-table-column>
-        <el-table-column
-            prop=4
             label="预期输出">
         </el-table-column>
         <el-table-column
-            prop=5
+            prop=4
             label="实际输出">
         </el-table-column>
         <el-table-column
-            prop=6
+            prop=5
             label="是否通过">
         </el-table-column>
 
@@ -60,7 +56,7 @@
 
 <script>
 export default {
-  name: "computerSell",
+  name: "telecom",
   data() {
     return {
       tableData: [],
