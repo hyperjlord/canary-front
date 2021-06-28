@@ -103,7 +103,7 @@ export default {
     }
   },
   methods: {
-    onClick(form) {
+    onClick() {
       var a = parseFloat(this.form.edge1)
       var b = parseFloat(this.form.edge2)
       var c = parseFloat(this.form.edge3)

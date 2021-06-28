@@ -1,0 +1,13 @@
+1,6,6,6,Equilateral triangle
+2,3.3,3.3,4.4,Isosceles triangle
+3,7,8,9,Normal triangle
+4,11,5,5,Not triangle
+5,-1,22,25.5,a can't < 0
+6,801,3,3,a is not in the range of value
+7,0,5,8,a can't be 0
+8,15,-2,9,b can't < 0
+9,10,800,17,b is not in the range of value
+10,14,0,22,b can't be 0
+11,10,11,-3,c can't < 0
+12,18,15,0,c can't be 0
+13,14.1,10,800,c is not in the range of value

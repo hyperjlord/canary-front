@@ -1,0 +1,25 @@
+1,-1,1,The number of minutes of calls cannot be less than 0
+2,2,2,25.3
+3,30,4,29.5
+4,59,3,34.85
+5,62,4,34.3
+6,90,5,38.5
+7,118,2,42.4345
+8,123,3,43.081
+9,150,3,47.05
+10,179,4,51.85
+11,181,3,51.47125
+12,250,5,62.5
+13,298,6,69.7
+14,302,2,68.941
+15,160,-1,The times of not paying on time cannot be less than 0
+16,160,0,48.52
+17,160,1,48.52
+18,170,2,49.99
+19,170,3,49.99
+20,140,4,46.0
+21,120,5,43.0
+22,110,6,41.5
+23,100,7,40.0
+24,50000,3,Call minutes exceed maximum time limit
+25,180,100,The times of not paying on time cannot be greater than the maximum times

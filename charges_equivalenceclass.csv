@@ -1,0 +1,24 @@
+1,-5,1,The number of minutes of calls cannot be less than 0
+2,30,1,29.455
+3,90,1,38.2975
+4,150,1,47.05
+5,240,1,60.1
+6,320,1,71.56
+7,-5,2,The number of minutes of calls cannot be less than 0
+8,30,2,29.5
+9,90,2,38.2975
+10,150,2,47.05
+11,240,2,60.1
+12,320,2,71.56
+13,-5,3,The number of minutes of calls cannot be less than 0
+14,30,3,29.5
+15,90,3,38.5
+16,150,3,47.05
+17,240,3,60.1
+18,320,3,71.56
+19,-5,6,The number of minutes of calls cannot be less than 0
+20,30,6,29.5
+21,90,6,38.5
+22,150,6,47.5
+23,240,6,61.0
+24,320,6,71.56
