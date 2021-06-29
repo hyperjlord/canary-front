@@ -1,0 +1,187 @@
+updateTime,id,name,score,creator,level,levelId,type,typeId,category,categoryId,description,options,expected_result
+2021/1/11 4:09,99999999,做客时入座动作要,8,others,Null,10,others,others,others,50,礼仪相关的,"[
+  {
+    ""id"": ""0c83f68e3d9948e38d65eb22c257bf7f"",
+    ""content"": ""快捷"",
+    ""answer"": true,
+    ""description"": ""做客时入座动作要""
+  },
+  {
+    ""id"": ""0dda4965171b4f9680a6acfab9af9625"",
+    ""content"": ""轻稳"",
+    ""answer"": false,
+    ""description"": ""做客时入座动作要""
+  },
+  {
+    ""id"": ""9da49e7309604e81bacfdc7bb9044bc1"",
+    ""content"": ""缓慢"",
+    ""answer"": false,
+    ""description"": ""做客时入座动作要""
+  }
+]",0
+2021/6/29 2:36,99999999,地球是圆地吗？？,5,admin,易,3,判断题,3,others,50,是的嘻嘻,"[
+  {
+    ""id"": ""52e0ccb2fc4545028988681db9858f70"",
+    ""content"": ""错误"",
+    ""answer"": false,
+    ""description"": null
+  },
+  {
+    ""id"": ""d8fd1ca48ed74d0cb51295ad84760dd6"",
+    ""content"": ""正确"",
+    ""answer"": true,
+    ""description"": null
+  }
+]",0
+2021/1/11 4:21,99999999,"使用手机时,手机不宜握在手里或挂在腰带上",5,admin,中,2,单选题,1,others,50,生活小细节,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:21,99999999,"与他人交谈时,要盯着他人的双眉到鼻尖的三角区域内",5,others,Null,10,单选题,1,人文,9,小礼仪,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:20,99999999,有人问路可以用手指指示方向,8,others,中,2,others,others,人文,9,礼仪,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:20,99999999,"行握手礼时,与多人同时握手时,可以交叉握手",6,admin,Null,10,判断题,3,人文,9,礼仪,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:20,4247752901bd47fba86379a1cd4b87d4,与他人交谈完毕就可以立即转身离开,7,others,Null,10,判断题,3,others,10,社交礼仪,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:09,cff7d16da6ab428e893c748d5c759cb2,"拜访他人应选择（）,并应提前打招呼",7,others,中,2,单选题,1,others,9,交往礼节,"[
+  {
+    ""id"": ""8c95b512240b4a47b85743a64f65c0ba"",
+    ""content"": ""节假日的下午或平日的晚饭后"",
+    ""answer"": true,
+    ""description"": ""拜访他人应选择（）,并应提前打招呼""
+  },
+  {
+    ""id"": ""ca45b95620ae4d33986cb8067ef2525c"",
+    ""content"": ""清晨"",
+    ""answer"": false,
+    ""description"": ""拜访他人应选择（）,并应提前打招呼""
+  },
+  {
+    ""id"": ""db43d6e8819047539922b510e0a039b7"",
+    ""content"": ""用餐时间 "",
+    ""answer"": false,
+    ""description"": ""拜访他人应选择（）,并应提前打招呼""
+  }
+]",0
+2021/1/11 4:20,8f3e02d0f2a1402abd3278adc05ffb10,有人问路可以用手指指示方向,6,teacher,Null,10,others,others,others,10,礼仪,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:20,6cabac6ec4ef44068e66cf2547543658,"行握手礼时,与多人同时握手时,可以交叉握手",6,others,难,1,判断题,3,生活,10,礼仪,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:20,4247752901bd47fba86379a1cd4b87d4,与他人交谈完毕就可以立即转身离开,6,teacher,Null,10,单选题,1,生活,10,社交礼仪,"[
+  {
+    ""id"": ""b8e2e6300ab04016a82481fff15750e0"",
+    ""content"": ""正确"",
+    ""answer"": false,
+    ""description"": ""判断题专用选项""
+  },
+  {
+    ""id"": ""d15f9106bb9941eaab1e37356af083b3"",
+    ""content"": ""错误"",
+    ""answer"": true,
+    ""description"": ""判断题专用选项""
+  }
+]",0
+2021/1/11 4:09,cff7d16da6ab428e893c748d5c759cb2,"拜访他人应选择（）,并应提前打招呼",5,admin,中,2,others,others,生活,10,交往礼节,"[
+  {
+    ""id"": ""8c95b512240b4a47b85743a64f65c0ba"",
+    ""content"": ""节假日的下午或平日的晚饭后"",
+    ""answer"": true,
+    ""description"": ""拜访他人应选择（）,并应提前打招呼""
+  },
+  {
+    ""id"": ""ca45b95620ae4d33986cb8067ef2525c"",
+    ""content"": ""清晨"",
+    ""answer"": false,
+    ""description"": ""拜访他人应选择（）,并应提前打招呼""
+  },
+  {
+    ""id"": ""db43d6e8819047539922b510e0a039b7"",
+    ""content"": ""用餐时间 "",
+    ""answer"": false,
+    ""description"": ""拜访他人应选择（）,并应提前打招呼""
+  }
+]",0

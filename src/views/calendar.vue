@@ -4,7 +4,7 @@
       <h1>Question4: 万年历问题</h1>
       <el-upload
           class="upload-demo"
-          action="http://imsty.cn:5000/question4"
+          action="http://localhost:5000/question4"
           :on-preview="handlePreview"
           :on-remove="handleRemove"
           :before-remove="beforeRemove"

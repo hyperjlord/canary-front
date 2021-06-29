@@ -26,7 +26,7 @@
           <h4>批量测试</h4>
           <el-upload
             class="upload-demo"
-            action="http://imsty.cn:5000/question1"
+            action="http://localhost:5000/question1"
             :on-preview="handlePreview"
             :on-remove="handleRemove"
             :before-remove="beforeRemove"
@@ -40,7 +40,7 @@
           </el-upload>
         </el-tab-pane>
       </el-tabs>
-     
+
       <div>
         <el-table
           :data="tableData"
@@ -83,7 +83,7 @@
     </div>
     </el-footer>
    </el-container>
-   
+
  </div>
 
 </template>

@@ -4,7 +4,7 @@
       <h1>Question2: 电信收费问题</h1>
       <el-upload
           class="upload-demo"
-          action="http://imsty.cn:5000/question2"
+          action="http://localhost:5000/question2"
           :on-preview="handlePreview"
           :on-remove="handleRemove"
           :before-remove="beforeRemove"

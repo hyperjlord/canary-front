@@ -4,7 +4,7 @@
       <h1>Question3: 电脑销售系统</h1>
       <el-upload
           class="upload-demo"
-          action="http://imsty.cn:5000/question3"
+          action="http://localhost:5000/question3"
           :on-preview="handlePreview"
           :on-remove="handleRemove"
           :before-remove="beforeRemove"
