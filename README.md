@@ -1,4 +1,4 @@
-# helloworld
+# conary-front
 
 ## Project setup
 ```
